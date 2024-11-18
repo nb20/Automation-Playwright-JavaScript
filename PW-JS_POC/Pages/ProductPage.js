@@ -15,6 +15,7 @@ exports.ProductPage =
       this.backButtonProductsList = "button[id='back-to-products']";
 
     }
+
     async addProductToCart(productName) {
       const productList = await this.page.$$(this.allProductList);
       for (const product of productList) {
@@ -54,6 +55,12 @@ exports.ProductPage =
       }
       return console.log(productDiscrepancies);
     }
+
+    async clickIndividualProducts() {
+
+
+    }
+    
   }
 
 
