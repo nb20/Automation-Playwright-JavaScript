@@ -1,0 +1,26 @@
+[
+    {
+        "uid": "standard_user",
+        "pwd": "secret_sauce"
+    },
+    {
+        "uid": "visual_user",
+        "pwd": "secret_sauce"
+    },
+    {
+        "uid": "problem_user",
+        "pwd": "secret_sauce"
+    },
+    {
+        "uid": "locked_out_user",
+        "pwd": "secret_sauce"
+    },
+    {
+        "uid": "performance_glitch_user",
+        "pwd": "secret_sauce"
+    },
+    {
+        "uid": "error_user",
+        "pwd": "secret_sauce"
+    }
+]
