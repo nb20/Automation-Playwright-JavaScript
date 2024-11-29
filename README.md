@@ -1,2 +1,3 @@
-# UI-Automation-Playwright-with-JavaScript
-UI Automation Practice with Playwright using JavaScript
+# Automation-Playwright-with-JavaScript
+Automation Practice with Playwright using JavaScript
+
